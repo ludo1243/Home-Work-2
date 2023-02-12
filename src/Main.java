@@ -109,6 +109,6 @@ public class Main {
         System.out.println("Всего работников в компании - " + sotrud + " человек");
         sotrud = sotrud + 94;
         vrema = sotrud * VremaSotrud;
-        System.out.println("Если в компании работает - " + sotrud + " человек, то всего " + vrema + " часов работы может быть поделено между сотрудниками. \n");
+        System.out.println("Если в компании работает - " + sotrud + " человек, то всего " + vrema + " часов работы может быть поделено между сотрудниками.\n");
     }
 }
